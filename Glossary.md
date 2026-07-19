@@ -1,4 +1,7 @@
 # Glossary
+
+[![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/README.md)
+
 A list of terms relating to speedrunning, with links to their locations in the mega thread.  
 Terms will be sorted Alphabetically where possible.
 
@@ -92,3 +95,5 @@ Terms will be sorted Alphabetically where possible.
 | 3L | 3 Lines |  |
 | BOTE | Blackout True Ending |  |
 | RMM | Rando Map Mod |  |
+
+[![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/README.md)

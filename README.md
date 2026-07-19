@@ -11,9 +11,10 @@ To see a repo of resources relevant for setting up speedrunning *tools*, such as
 
 If anyone would like to support my time spent into making this resource you can donate to my ko-fi  
 By no means is it required, but any and all help is appreciated :3  
+
 [![Ko-fi Link](/Media/Icons/ko-fi.png)](https://ko-fi.com/noslepivy)
 
-# [Glossary](/Glossary.md)
+# [Glossary](/Glossary.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/Item/Map/Inventory/Map%20and%20Quill.png" height=48>
 
 > [!TIP]  
 > By using CTRL+F in the Glossary (Or on any page for that matter), you can search for explanations of key terms, find, and use relevant links.
@@ -70,7 +71,7 @@ By no means is it required, but any and all help is appreciated :3
 
 ## Game mechanics
 
-### [The Mist](/GameMechanics/TheMist.md)
+### [The Mist](/GameMechanics/TheMist.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/NPC/SilkFlies.png" height=16>
 
 ### [Maps](/GameMechanics/Maps.md)
 
@@ -89,9 +90,12 @@ By no means is it required, but any and all help is appreciated :3
 # Contributers
 
 A quick thank you section to those that have provided resources, videos, guides, PR's, spellchecking my awful grammar etc etc etc
-- ### [Dasha-nkster](https://github.com/dasha-nkster)
-- ### [Alex Knauth](https://github.com/AlexKnauth)
-- ### [OxBox](https://www.youtube.com/@oxboxrox)
-- ### [MonStahLer](https://www.youtube.com/@MonStahLer)
-- ### [Taiga](https://www.youtube.com/@TaigaSPYT)
-- ### [Popless Rebel](https://www.youtube.com/@PoplessRebel)
+- [Dasha-nkster](https://github.com/dasha-nkster)
+- [Alex Knauth](https://github.com/AlexKnauth)
+- [Slaurent](https://github.com/slaurent22)
+- [ManicJamie](https://github.com/ManicJamie)
+- [IDAX](https://space.bilibili.com/24240097)
+- [OxBox](https://www.youtube.com/@oxboxrox)
+- [MonStahLer](https://www.youtube.com/@MonStahLer)
+- [Taiga](https://www.youtube.com/@TaigaSPYT)
+- [Popless Rebel](https://www.youtube.com/@PoplessRebel)

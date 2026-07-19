@@ -1,4 +1,6 @@
-# Any % Routes
+# Any % Routes 
+
+[![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/README.md)
 
 A collection of the Any % Routes, with an explanation of their differences, and links to their splits and full notes.  
 You may notice on [SRC](https://www.speedrun.com/silksong) the leaderboard is split between release patch and later patches. This was due to the fact that cloakless run can be performed on release patch giving a LARGE time save compared to cloakful runs; and so to keep the cloakful runs relevant, and still allow people to run them (such as console players that physically cannot downpatch) a split in the leaderboard was formed.
@@ -79,3 +81,5 @@ The All Glitches run has 2 main routes, one covered in the guide below (with a c
   
   > [Low % route room dupe example](https://www.youtube.com/watch?v=UQJ6grrrIZw)  
   > Unfortunately, there isn't any form of guide on this specific route at this time, however take note of the differences between Any% AG runs and [Low% AG runs](/Routes/Low%25Routes.md#low--ag-routes) as they are VERY similar.
+
+[![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/README.md)

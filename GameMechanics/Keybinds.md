@@ -1,5 +1,7 @@
 # Popular Keybinds
 
+[![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/README.md)
+
 - [The defualt binds](/GameMechanics/Keybinds.md#the-default)
 - [Cyv's keybinds](/GameMechanics/Keybinds.md#cyvs-binds)
 - [Nebula's keybinds](/GameMechanics/Keybinds.md#nebulas-binds)
@@ -37,3 +39,5 @@
 >### Emmas Binds
 >![Emma Binds keyboard](/Media/Screenshots/Keybinds/Emma%20binds%20keyboard.png)  
 >![Emma Binds](/Media/Screenshots/Keybinds/Emma%20binds.png)
+
+[![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/README.md)
