@@ -2,8 +2,8 @@
 A list of terms relating to speedrunning, with links to their locations in the mega thread.  
 Terms will be sorted Alphabetically where possible.
 
-> [!Tip]  
-> You can use the Ctrl+F (or Cmd+F) shortcut to open a search box, to look for specific terms.
+ [!Tip]  
+ You can use the Ctrl+F (or Cmd+F) shortcut to open a search box, to look for specific terms.
 
 - ### [General Speedrunning Terms](/Glossary.md#general-speedrunning-terms)
 - ### [Speed Tech](/Glossary.md#speed-tech)
@@ -43,11 +43,11 @@ Terms will be sorted Alphabetically where possible.
 | TFT (T-FT) | Time Minus Fixed Time |  The desync between when physics is calculated and when frames get rendered. It affects everything, among which is nonsense including, but not limited to, position interpolation - which can give you "rng" softfall in Hollow Knight. |
 
 
->## Speed Tech 
->| Term  | Meaning | Explanation |
->| ------------- | ------------- | ------------- |
->| CSS | Cocoon Skip Skip | Refering to a skip, that previously used a cocoon, but now skips using the cocoon. Often specifically refers to Mt.Fay CSS |
->| DDG | Down Dash Glide | Pogo-ing on object or enemy then downdashing, creating a gliding effect for a speed boost.  |
+## Speed Tech 
+| Term  | Meaning | Explanation |
+| ------------- | ------------- | ------------- |
+| CSS | Cocoon Skip Skip | Refering to a skip, that previously used a cocoon, but now skips using the cocoon. Often specifically refers to Mt.Fay CSS |
+| DDG | Down Dash Glide | Pogo-ing on object or enemy then downdashing, creating a gliding effect for a speed boost.  |
 
 ## Glitched Terms
 | Term  | Meaning | Explanation |
@@ -55,40 +55,40 @@ Terms will be sorted Alphabetically where possible.
 | MMS | Main Menu Storage |  |
 | Room Dupe |  |  |
 
-> ## Speedrun Categories
-> | Term  | Meaning | Explanation |
-> | ------------- | ------------- | ------------- |
-> | 100% |  | Finish the game with 100% completion |
->| 4MS | 4 Mask Shards |  |
->| AA1B | All Act 1 Bosses |  |
->| AA2B | All Act 2 Bosses |  |
->| AB | All Bosses |  |
->| AG | All Glitches |  |
->| ASS | All Skills | A category that gets all the silk skills. |
->| Awoo% | All Fleas |  |
->| Awooo% | All Fleas and beaten flea games |  |
->| BASS | Basically all silk skills | A category that gets all the silk skills, except for pail nails, preventing the need to enter act 3. |
->| IL | Individual Level | A small section of a run, either for practice or as a leaderboard category, for example Moss Grotto IL, where time ends upon leaving Moss Grotto. |
->| NMMS | No Main Menu Storage | A glitched category, that allows a lot of glitches, but not MMS |
->| RMG | Restricted Major Glitches | Some, but not all Major glitches are allowed. |
->| TE | True Ending |  |
+ ## Speedrun Categories
+ | Term  | Meaning | Explanation |
+ | ------------- | ------------- | ------------- |
+ | 100% |  | Finish the game with 100% completion |
+| 4MS | 4 Mask Shards |  |
+| AA1B | All Act 1 Bosses |  |
+| AA2B | All Act 2 Bosses |  |
+| AB | All Bosses |  |
+| AG | All Glitches |  |
+| ASS | All Skills | A category that gets all the silk skills. |
+| Awoo% | All Fleas |  |
+| Awooo% | All Fleas and beaten flea games |  |
+| BASS | Basically all silk skills | A category that gets all the silk skills, except for pail nails, preventing the need to enter act 3. |
+| IL | Individual Level | A small section of a run, either for practice or as a leaderboard category, for example Moss Grotto IL, where time ends upon leaving Moss Grotto. |
+| NMMS | No Main Menu Storage | A glitched category, that allows a lot of glitches, but not MMS |
+| RMG | Restricted Major Glitches | Some, but not all Major glitches are allowed. |
+| TE | True Ending |  |
 
 ## Bosses and Enemies
 | Term  | Meaning | Explanation |
 | ------------- | ------------- | ------------- |
 | Abskarr  | Absolute Skarrguard | The skarrguard in hunters march protecting the rosary chest, when done with low equipemnt  |
 
->## In-Game Areas
->| Term  | Meaning | Explanation |
->| ------------- | ------------- | ------------- |
+## In-Game Areas
+| Term  | Meaning | Explanation |
+| ------------- | ------------- | ------------- |
 
 ## Items, tools, skills, and upgrades
 | Term  | Meaning | Explanation |
 | ------------- | ------------- | ------------- |
 
->## Rando Terms
->| Term  | Meaning | Explanation |
->| ------------- | ------------- | ------------- |
->| 3L | 3 Lines |  |
->| BOTE | Blackout True Ending |  |
->| RMM | Rando Map Mod |  |
+## Rando Terms
+| Term  | Meaning | Explanation |
+| ------------- | ------------- | ------------- |
+| 3L | 3 Lines |  |
+| BOTE | Blackout True Ending |  |
+| RMM | Rando Map Mod |  |
