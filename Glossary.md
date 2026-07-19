@@ -2,7 +2,7 @@
 A list of terms relating to speedrunning, with links to their locations in the mega thread.  
 Terms will be sorted Alphabetically where possible.
 
- [!Tip]  
+ > [!Tip]  
  You can use the Ctrl+F (or Cmd+F) shortcut to open a search box, to look for specific terms.
 
 - ### [General Speedrunning Terms](/Glossary.md#general-speedrunning-terms)
