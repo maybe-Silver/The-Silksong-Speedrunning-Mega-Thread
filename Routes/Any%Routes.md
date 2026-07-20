@@ -33,8 +33,8 @@ These runs go through the mist, saving time from better routing, not having to c
 
 >[Key route splits](https://hksplitmaker.com/?game=silksong&builtin=any-key)  
 >[Key route notes](https://docs.google.com/document/d/e/2PACX-1vSMkElA8vNdvb2wVgxlyFs2wRPl4vgs53CK-6-zWkWGjZMalrqM-IX15c19MYgwlZpuJPm0kyacWqur/pub)  
->[Key route Savestate pack]()  
->[Key Route Livesplit IL's]()  
+>[Key route Savestate pack](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/Any.Key.route.Savestates.zip)  
+>[Key Route Livesplit IL's](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/Any.Key.Route.Livesplit.IL.s.zip)  
 > No video guide as of yet, however, watching the top runs on [SRC](https://www.speedrun.com/silksong?h=any-no-major-glitches-release-patch&x=zd39j4nd-ylq4yvzn.qzne828q-rn1kmmvl.10vzvmol) can help a lot with understanding the route.
 
 ---
@@ -45,8 +45,8 @@ These runs go through the mist, saving time from better routing, not having to c
 >[Fleas route splits](https://hksplitmaker.com/?game=silksong&builtin=any-fleas)  
 >[Flea route notes](https://docs.google.com/document/d/1yA3h72XDO3627Hs_8m6ag0cZPAH8-7jlGK4Xkduuskc/edit?tab=t.0#heading=h.3hhwjgh3sfaf)  
 >[Flea route video guide](https://www.youtube.com/playlist?list=PLnd-PMBTsX4ZrfOZDpup2Gg7OyH96dq-S)  
->[Flea route Savestate pack]()  
->[Flea route Livesplit IL's]()
+>[Flea route Savestate pack (OLD)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/OLD.Any.Flea.route.Savestates.zip)  
+>[Flea route Livesplit IL's (OLD)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/Any.Flea.route.Livesplit.IL.s.zip)
   
 >[!NOTE]  
 >Technically, you can do a cloakless run on later patches by using the reaper crest pogo or multiple glitches. However, it is slow to collect reapers crest, and naturally glitched runs make use of more than enough tech, never worrying about cloak.
@@ -64,8 +64,8 @@ These runs go through the mist, saving time from better routing, not having to c
 >[Bell route splits](https://hksplitmaker.com/?game=silksong&builtin=any-bells)  
 >[Bell route notes](https://docs.google.com/document/d/1OwFO5OSDMIZWn24Jm6f14QtfF7145Aom5T-exSffINI/edit?tab=t.gxdxsxf2j77q#heading=h.umnydksznp6v)  
 >[Bell route video guide](https://www.youtube.com/playlist?list=PL4aX24rbBNH3ccDaEfLqfxIVlGoH53Ukz)  
->[Bell route Savestate pack]()  
->[Bell route Livesplit IL's]()  
+>[Bell route Savestate pack](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/Any.Bell.route.Savestates.zip)  
+>[Bell route Livesplit IL's](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/Any.Bell.route.Livesplit.IL.s.zip)  
 
 >[!NOTE]  
 > The bell route is currently most optimal on patch **1.0.29242** in order to make use of the nail upgrade cutscene skip, while still taking advantage of Lace 2's broken hitboxes during her fight.
@@ -78,7 +78,7 @@ These runs go through the mist, saving time from better routing, not having to c
 >[Cloak Mist route splits](https://hksplitmaker.com/?game=silksong&builtin=any-mist)  
 >[Cloak Mist route notes](https://docs.google.com/document/d/1OwFO5OSDMIZWn24Jm6f14QtfF7145Aom5T-exSffINI/edit?tab=t.0#heading=h.umnydksznp6v)  
 >[Mist guide and resources Page](/GameMechanics/TheMist.md)  
->[Cloak Mist Savestate pack (OLD)]()  
+>[Cloak Mist Savestate pack (OLD)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/OLD.Any.Cloak.Mist.Savestates.zip)  
 <!-- >>[Cloak Mist Livesplit IL's]() -->
 
 ---

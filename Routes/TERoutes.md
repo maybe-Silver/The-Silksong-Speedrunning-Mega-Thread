@@ -26,8 +26,8 @@ It is ran on version 1.0.28891, mainly to take advantage of [Voltvessel Pogos](/
 
 >[TE 891 Route Splits here](https://hksplitmaker.com/?game=silksong&builtin=te-891)  
 >[TE 891 Notes here](https://app.milanote.com/1WbFcm1cdcT3dK/silksong-true-ending-patch-1028891?p=Ug6mw9f6KRi)  
->[TE 891 Savestate pack]()  
->[TE 891 Livesplit IL's]()  
+>[TE 891 Savestate pack](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/TE.891.Savestates.zip)  
+>[TE 891 Livesplit IL's](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/TE.891.Livesplit.IL.s.rar)  
 >No current guide, however the notes are very extensive, and you can always watch runs on [SRC](https://www.speedrun.com/silksong?h=true-ending-no-major-glitches&x=n2y0m18d-dloed1dn.qyzod221)  
 
 ---
@@ -37,8 +37,8 @@ Later patch True ending runs are typically slower, as they cannot do [Voltvessel
 
 >[TE LP Route Splits here](https://hksplitmaker.com/?game=silksong&builtin=te)  
 >[TE LP Notes here](https://app.milanote.com/1WbEZ11uqkHtUz/silksong-true-ending-lp?p=Ug6mw9f6KRi)  
->[TE LP Savestate pack]()  
->[TE LP Livesplit IL's]()  
+>[TE LP Savestate pack](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/TE.LP.Savestates.zip)  
+>[TE LP Livesplit IL's](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/TE.LP.Livesplit.IL.s.zip)  
 >No current guide, however the notes are very extensive, and you can always watch runs on [SRC](https://www.speedrun.com/silksong?h=true-ending-no-major-glitches&x=n2y0m18d-dloed1dn.qyzod221)
 
 ---

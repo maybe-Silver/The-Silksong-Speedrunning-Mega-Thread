@@ -73,7 +73,7 @@ By no means is it required, but any and all help is appreciated :3
 
 ### [The Mist](/GameMechanics/TheMist.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/NPC/SilkFlies.png" height=16>
 
-### [Maps](/GameMechanics/Maps.md)
+### [Maps](/GameMechanics/Maps.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/NPC/Shakra.png" height=16>
 
 ### [Popular Keybinds](/GameMechanics/Keybinds.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/Skill/Inventory/Sylphsong.png" height=16>
 
