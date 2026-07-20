@@ -33,6 +33,8 @@ These runs go through the mist, saving time from better routing, not having to c
 
 >[Key route splits](https://hksplitmaker.com/?game=silksong&builtin=any-key)  
 >[Key route notes](https://docs.google.com/document/d/e/2PACX-1vSMkElA8vNdvb2wVgxlyFs2wRPl4vgs53CK-6-zWkWGjZMalrqM-IX15c19MYgwlZpuJPm0kyacWqur/pub)  
+>[Key route Savestate pack]()  
+>[Key Route Livesplit IL's]()  
 > No video guide as of yet, however, watching the top runs on [SRC](https://www.speedrun.com/silksong?h=any-no-major-glitches-release-patch&x=zd39j4nd-ylq4yvzn.qzne828q-rn1kmmvl.10vzvmol) can help a lot with understanding the route.
 
 ---
@@ -42,10 +44,12 @@ These runs go through the mist, saving time from better routing, not having to c
 
 >[Fleas route splits](https://hksplitmaker.com/?game=silksong&builtin=any-fleas)  
 >[Flea route notes](https://docs.google.com/document/d/1yA3h72XDO3627Hs_8m6ag0cZPAH8-7jlGK4Xkduuskc/edit?tab=t.0#heading=h.3hhwjgh3sfaf)  
->[Flea route video guide](https://www.youtube.com/playlist?list=PLnd-PMBTsX4ZrfOZDpup2Gg7OyH96dq-S)
+>[Flea route video guide](https://www.youtube.com/playlist?list=PLnd-PMBTsX4ZrfOZDpup2Gg7OyH96dq-S)  
+>[Flea route Savestate pack]()  
+>[Flea route Livesplit IL's]()
   
-> [!NOTE]  
-> Technically, you can do a cloakless run on later patches by using the reaper crest pogo or multiple glitches. However, it is slow to collect reapers crest, and naturally glitched runs make use of more than enough tech, never worrying about cloak.
+>[!NOTE]  
+>Technically, you can do a cloakless run on later patches by using the reaper crest pogo or multiple glitches. However, it is slow to collect reapers crest, and naturally glitched runs make use of more than enough tech, never worrying about cloak.
  
 ---
 
@@ -57,9 +61,11 @@ These runs go through the mist, saving time from better routing, not having to c
 - This is by far the most popular route, due to it being fairly beginner-friendly and a great entry point for speedrunning. Bells gets 5 bells, fights The Last Judge to go through the Grand Gate for Act 2. It's ~20 seconds faster than a cloak mist due to some tricky skips in Blasted Steps, and a craw pogo to Greymoor bell. There are easier alternatives to these skips, however, by doing the slower, easier version, you lose the 20-second time save this route has over a Cloaked Mist. This route without the skips may be the easiest for beginners, and is good practice if you want to add the skips in later.
 - Additionally the bell route may take advantage of the tool [Sawtooth Circlet](https://hollowknight.wiki/w/Sawtooth_Circlet) in order to kill bosses incredibly quickly with [Sawtooth turn-arounds](/Tech/CombatTech.md#sawtooth-turn-arounds)  
 - Notes for the sawtooth route can be found within the discord as it's not the most popular route.
-> [Bell route splits](https://hksplitmaker.com/?game=silksong&builtin=any-bells)  
-> [Bell route notes](https://docs.google.com/document/d/1OwFO5OSDMIZWn24Jm6f14QtfF7145Aom5T-exSffINI/edit?tab=t.gxdxsxf2j77q#heading=h.umnydksznp6v)  
-> [Bell route video guide](https://www.youtube.com/playlist?list=PL4aX24rbBNH3ccDaEfLqfxIVlGoH53Ukz)  
+>[Bell route splits](https://hksplitmaker.com/?game=silksong&builtin=any-bells)  
+>[Bell route notes](https://docs.google.com/document/d/1OwFO5OSDMIZWn24Jm6f14QtfF7145Aom5T-exSffINI/edit?tab=t.gxdxsxf2j77q#heading=h.umnydksznp6v)  
+>[Bell route video guide](https://www.youtube.com/playlist?list=PL4aX24rbBNH3ccDaEfLqfxIVlGoH53Ukz)  
+>[Bell route Savestate pack]()  
+>[Bell route Livesplit IL's]()  
 
 >[!NOTE]  
 > The bell route is currently most optimal on patch **1.0.29242** in order to make use of the nail upgrade cutscene skip, while still taking advantage of Lace 2's broken hitboxes during her fight.
@@ -69,9 +75,11 @@ These runs go through the mist, saving time from better routing, not having to c
 ### Mist route (with cloak)
 - This was the original any% route when speedrunning first started; Multiple routes could be considered "The Mist route" as they go through Sinners Road for The Mist, and fight Phantom to enter act 2. Specifically, a mist route with cloak is slower than bells and has the difficulty of The Mist itself, which can be quite punishing and can lead to random time loss, but doesn't have any difficult skips. Picking up and using Barbed Bracelet is *potentially* faster for mist route, but is even more punishing, and is still estimated to be slower than bell route. This route is good, however, if you don't like doing the bells route skips, you particularly like The Mist/Phantom, or want to practice for a cloakless run.
 
-> [Mist route splits](https://hksplitmaker.com/?game=silksong&builtin=any-mist)  
-> [Mist route notes](https://docs.google.com/document/d/1OwFO5OSDMIZWn24Jm6f14QtfF7145Aom5T-exSffINI/edit?tab=t.0#heading=h.umnydksznp6v)  
-> [Mist guide and resources Page](/GameMechanics/TheMist.md)
+>[Cloak Mist route splits](https://hksplitmaker.com/?game=silksong&builtin=any-mist)  
+>[Cloak Mist route notes](https://docs.google.com/document/d/1OwFO5OSDMIZWn24Jm6f14QtfF7145Aom5T-exSffINI/edit?tab=t.0#heading=h.umnydksznp6v)  
+>[Mist guide and resources Page](/GameMechanics/TheMist.md)  
+>[Cloak Mist Savestate pack (OLD)]()  
+<!-- >>[Cloak Mist Livesplit IL's]() -->
 
 ---
 
