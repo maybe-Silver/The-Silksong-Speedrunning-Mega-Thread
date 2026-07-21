@@ -52,8 +52,8 @@ Ran on 1.0.28891
 Created by Zodiam as an optimised route to rival Monstah's v6.2 route at the time, by using the [Mist](/GameMechanics/TheMist.md) instead of bell route in Act 1, got [crafting kits](https://hollowknight.wiki/w/Tool_Pouch_%26_Crafting_Kit#Crafting_Kit) earlier, some slight rosary rerouting, avoided getting [Thread Storm](https://hollowknight.wiki/w/Thread_Storm) until later on, among many other things.
 >[zRoute Splits](https://hksplitmaker.com/?game=silksong&builtin=100-zroute-891)  
 >[zRoute Notes](https://app.milanote.com/1WveEr1gD7FZ4H/100-mist-route-891?p=lxGFEERn8Hw)  
->[Savestates]-(DL-LINK)  
->[Livesplit IL's]-(DL-LINK)  
+>[Savestates](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/100.zRoute.Savestates.zip)  
+>[Livesplit IL's](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/100.zRoute.Livesplit.IL.s.zip)  
 
 - ### [Monstah's v6.2](https://app.milanote.com/1Wu0KL12QxHseO/route-v62?p=4KWVkAUB4ds)
 Ran on 1.0.28891  
@@ -61,8 +61,8 @@ MonStahLer's routes speak for themselves given his experience in running, and re
 
 >[v6.2 Splits](https://hksplitmaker.com/?game=silksong&builtin=100-monstah-62)  
 >[v6.2 Notes](https://app.milanote.com/1Wu0KL12QxHseO/route-v62?p=4KWVkAUB4ds)  
->[Savestates]-(DL-LINK)  
->[Livesplit IL's]-(DL-LINK) These splits were taken from the v6 Route, but should still be useful for v6.2  
+>[Savestates](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/100.v6.2.Savestates.zip)  
+>[Livesplit IL's](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/100.v6.Livesplit.IL.s.zip) - These splits were taken from the v6 Route, but should still be useful for v6.2  
 
 ---
 
@@ -77,7 +77,7 @@ A route by Blackwolf possible on any patch, taking the Bell route through Act 1.
 A route by Mathulu possible on any patch, taking the Mist route through Act 1.
 >[LP Mist Splits](https://hksplitmaker.com/?game=silksong&builtin=100-mist-route)  
 >[LP Mist Notes](https://pastebin.com/raw/wXQeQpvW)  
->[LP Mist Savestates]-(DL-LINK)
+>[LP Mist Savestates](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/100.LP.Mist.Savestates.zip)
 
 ---
 
