@@ -21,11 +21,11 @@ By no means is it required, but any and all help is appreciated :3
 
 ## Routes
 
-### [Any %](/Routes/Any%25Routes.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/Item/Key/Simple.png" height=16>
+### [Any %](/Routes/Any%25Routes.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/Item/Key/Simple.png" height=24>
 
-### [True Ending](/Routes/TERoutes.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/Item/Map/Pin/Courier.png" height=16>
+### [True Ending](/Routes/TERoutes.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/Item/Map/Pin/Courier.png" height=24>
 
-### [100%](/Routes/100%25Routes.md)
+### [100%](/Routes/100%25Routes.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/Item/Progression/Everbloom.png" height=24>
 
 ### [Low %](/Routes/Low%25Routes.md)
 
@@ -49,13 +49,13 @@ By no means is it required, but any and all help is appreciated :3
 
 ## Movement
 
-### [General movement](/Movement/GeneralMovement.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/Tool/Silkspeed%20Anklets.png" height=16>
+### [General movement](/Movement/GeneralMovement.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/Tool/Silkspeed%20Anklets.png" height=24>
 
 ### [Specific room movement](/Movement/SRMovement.md)
 
 ## Tech
 
-### [Combat tech](/Tech/CombatTech.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/Tool/Sawtooth%20Circlet.png" height=16>
+### [Combat tech](/Tech/CombatTech.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/Tool/Sawtooth%20Circlet.png" height=24>
 
 ### [Movement tech](/Tech/MovementTech.md) 
 
@@ -71,11 +71,11 @@ By no means is it required, but any and all help is appreciated :3
 
 ## Game mechanics
 
-### [The Mist](/GameMechanics/TheMist.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/NPC/SilkFlies.png" height=16>
+### [The Mist](/GameMechanics/TheMist.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/NPC/SilkFlies.png" height=24>
 
-### [Maps](/GameMechanics/Maps.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/NPC/Shakra.png" height=16>
+### [Maps](/GameMechanics/Maps.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/NPC/Shakra.png" height=24>
 
-### [Popular Keybinds](/GameMechanics/Keybinds.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/Skill/Inventory/Sylphsong.png" height=16>
+### [Popular Keybinds](/GameMechanics/Keybinds.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/Skill/Inventory/Sylphsong.png" height=24>
 
 ## Additional resources
 
