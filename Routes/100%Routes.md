@@ -4,7 +4,8 @@
 
 # 100% Routes
 
-A collection of the 100% Routes, with an explanation of their differences, and links to their splits and full notes.    
+A collection of the 100% Routes, with an explanation of their differences, links to their splits and notes, and downloads for savestates and livesplit IL's if available.  
+
 As a note - Downpatched routes are generally faster than LP routes.
 
 - ### [Downpatched Routes](#downpatched-routes-1)
@@ -70,7 +71,7 @@ MonStahLer's routes speak for themselves given his experience in running, and re
 ## LP Routes
 
 - ### [THE Hundo Route LP Edition](https://pastebin.com/QFTZCNCw)
-As the name suggests, this is a route written up by BlakWolf following as closely to THE hundo route above, modified slightly for LP routing, removing [Voltvessel Pogo's](/Tech/MovementTech.md#voltvessel-pogos) etc.
+As the name suggests, this is a route written up by BlakWolf following as closely as possible to THE hundo route above, modified slightly for LP routing, removing [Voltvessel Pogo's](/Tech/MovementTech.md#voltvessel-pogos) etc.
 >[LP v7 Splits] to be available soon on HKSM  
 >[LP v7 Notes](https://pastebin.com/QFTZCNCw)
 

@@ -2,9 +2,9 @@
 
 ---
 
-# Judgement Skips
+# Act 1 - Judgement and Sinner Skips
 
-A collection of skips and time saves relevant to Judgement runs.
+A collection of skips and time saves relevant to Act 1 - Judgement and Sinner runs.
 
 ---
 

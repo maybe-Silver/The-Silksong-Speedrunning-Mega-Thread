@@ -4,7 +4,8 @@
 
 # Any % Routes 
 
-A collection of the Any % Routes, with an explanation of their differences, and links to their splits and full notes.  
+A collection of the Any % Routes, with an explanation of their differences, links to their splits and notes, and downloads for savestates and livesplit IL's if available.
+
 You may notice on [SRC](https://www.speedrun.com/silksong) the leaderboard is split between cloak and cloakless runs. This was due to the fact that cloakless run can be performed on release patch giving a LARGE time save compared to cloakful runs; and so to keep the cloakful runs relevant, and still allow people to run them (such as console players that physically cannot downpatch) a split in the leaderboard was formed.
 
 - ### [Any% NMG](#any-no-major-glitches) (in order of fastest to slowest)
@@ -37,7 +38,7 @@ Ran on Release Patch (1.0.28324)
 
 >[Key route splits](https://hksplitmaker.com/?game=silksong&builtin=any-key)  
 >[Key route notes](https://docs.google.com/document/d/e/2PACX-1vSMkElA8vNdvb2wVgxlyFs2wRPl4vgs53CK-6-zWkWGjZMalrqM-IX15c19MYgwlZpuJPm0kyacWqur/pub)  
->[Key route Savestate pack](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/Any.Key.route.Savestates.zip)  
+>[Key route Savestate pack](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/Any.Key.route.Savestates.zip) - As a note, this savestate pack also contains a few extra savestates for Twisted% since Twisted% is effectively best ran on Key route with only some minor detours and additions.  
 >[Key Route Livesplit IL's](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/Any.Key.Route.Livesplit.IL.s.zip)  
 > No video guide as of yet, however, watching the top runs on [SRC](https://www.speedrun.com/silksong?h=any-no-major-glitches-release-patch&x=zd39j4nd-ylq4yvzn.qzne828q-rn1kmmvl.10vzvmol) can help a lot with understanding the route.
 

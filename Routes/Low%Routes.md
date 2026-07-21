@@ -4,7 +4,7 @@
 
 # Low % Routes
 
-A collection of the Low % Routes, with an explanation of their differences, and links to their splits and full notes.
+A collection of the Low % Routes, with an explanation of their differences, links to their splits and notes, and downloads for savestates and livesplit IL's if available.
 
 
 ## Low % All Glitches

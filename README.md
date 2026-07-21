@@ -25,14 +25,14 @@ By no means is it required, but any and all help is appreciated :3
 
 ### [True Ending](/Routes/TERoutes.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/Item/Map/Pin/Courier.png" height=24>
 
+### [Act 1 - Judgement + Sinner](/Routes/Act1Routes.md) 
+
 ### [100%](/Routes/100%25Routes.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/Item/Progression/Everbloom.png" height=24>
 
 ### [Low %](/Routes/Low%25Routes.md)
 
 ### [All Bosses](/Routes/AllBossesRoutes.md)
   
-### [Judgement](/Routes/Judgement.md)
-
 ## Skips
 
 ### [Any %](/Skips/Any%25Skips.md)
@@ -45,7 +45,7 @@ By no means is it required, but any and all help is appreciated :3
 
 ### [All Bosses](/Skips/AllBossesSkips.md)
 
-### [Judgement](/Skips/JudgementSkips.md)
+### [Act 1 - Judgement + Sinner](/Skips/Act1Skips.md)
 
 ## Movement
 

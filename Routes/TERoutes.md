@@ -4,7 +4,7 @@
 
 # True Ending Routes
 
-A collection of True Ending routes, with an explanation of their differences, and links to their splits and full notes.
+A collection of True Ending routes, with an explanation of their differences, links to their splits and notes, and downloads for savestates and livesplit IL's if available. 
 
 - [Priority resource - True Ending Milanote](#priority-resource---true-ending-milanote)
 - [True Ending 1.0.28891](#true-ending-1028891)
