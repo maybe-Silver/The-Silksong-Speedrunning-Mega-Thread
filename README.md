@@ -25,7 +25,7 @@ By no means is it required, but any and all help is appreciated :3
 
 ### [True Ending](/Routes/TERoutes.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/Item/Map/Pin/Courier.png" height=24>
 
-### [Act 1 - Judgement + Sinner](/Routes/Act1Routes.md) 
+### [Act 1 - Judgement + Sinner](/Routes/Act1Routes.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/NPC/Flea.png" height=24>
 
 ### [100%](/Routes/100%25Routes.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/Item/Progression/Everbloom.png" height=24>
 

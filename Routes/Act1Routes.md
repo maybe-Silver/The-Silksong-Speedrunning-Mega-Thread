@@ -28,7 +28,7 @@ Typically ran on 1.0.28714 or lower - To take advantage of a [Bind Dash Refresh]
 The flea route for Judgement, is quite unique, as it generally follows the same route as [Any%'s flea route](/Routes/Any%25Routes.md#flea-route), with the main exception of **NOT** getting the needle upgrade in Bellhart, immidietly leaving Widow's boss arena from the top left, instead of right, and grabbing bells along the way.   
 
 >[Flea Route Splits](https://hksplitmaker.com/?game=silksong&builtin=act1-judgement-fleas)  
->[Flea Route Savestates]-(DL-LINK) - May be partially outdated, but work as intended  
+>[Flea Route Savestates](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/Act1.Judgement.Flea.Savestates.zip) - May be partially outdated, but work as intended  
 >No notes, guides, or Livesplit IL's exist, however you can get the general idea of the route by watching runs on [SRC](https://www.speedrun.com/silksong?h=judgement-no-major-glitches-judgement&x=wk6544o2-jlz631q8.1w4ozxvq-j8415y58.qox0j35q)
 
 - ### Cloak Bells
@@ -37,7 +37,7 @@ Ran on any Patch. Slower than the above flea route, but more popular.
 The cloak bells route for Judgement is typically just the same as the [Any% Bells route](/Routes/Any%25Routes.md#bell-route), so typically a lot of people will do a Bells route Any% run, and submit it for both Any% and Judgement categories - If you want to be optimal however, Judgement benefits from **NOT** getting the nail upgrade in Bellhart, so the savestates below do not include getting that upgrade.
 
 >[Bell Route Splits](https://hksplitmaker.com/?game=silksong&builtin=act1-judgement)  
->[Bell Route Savestates]-(DL-LINK) - These are simply [Any% Bells](/Routes/Any%25Routes.md#bell-route) savestates that have been altered to have no nail upgrades, and removed all states irrelevent to Judgement  
+>[Bell Route Savestates](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/Act1.Judgement.Bells.Savestates.zip) - These are simply [Any% Bells](/Routes/Any%25Routes.md#bell-route) savestates that have been altered to have no nail upgrades, and removed all states irrelevent to Judgement  
 >No notes, guides, or Livesplit IL's exist, however you can get the general idea of the run by watching runs on [SRC](https://www.speedrun.com/silksong?h=judgement-no-major-glitches-judgement&x=wk6544o2-jlz631q8.1w4ozxvq-j8415y58.qox0j35q)
 
 ---
@@ -55,7 +55,7 @@ Technically you *could* run on 1.0.29315 or later in order to take advantage of 
 Additionally if running the category optimally, you should **NOT** get the needle upgrade when reaching Bellhart. As such the savestates below have removed the needle upgrade, but otherwise are very similar to [Any% Key route's](/Routes/Any%25Routes.md#key-route) Savestates.
 
 >[Key Route Splits](https://hksplitmaker.com/?game=silksong&builtin=act1-sinner)  
->[Key route savestates]-(DL-LINK) - These savestates have been taken from [Any% Key Route](/Routes/Any%25Routes.md#key-route) and altered to have no nail upgrade, and removed savestates irrelevant to Sinner.  
+>[Key route savestates](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/Act1.Sinner.Key.route.Savestates.zip) - These savestates have been taken from [Any% Key Route](/Routes/Any%25Routes.md#key-route) and altered to have no nail upgrade, and removed savestates irrelevant to Sinner.  
 >No notes, guides, or Livesplit IL's exist, however you can get the general idea of the route by watching runs on [SRC](https://www.speedrun.com/silksong?h=judgement-no-major-glitches-sinner&x=wk6544o2-jlz631q8.1w4ozxvq-j8415y58.1390xmr1)
 
 - ### Cloakless Flea
