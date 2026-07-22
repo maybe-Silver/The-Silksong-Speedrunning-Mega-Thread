@@ -2,13 +2,13 @@
 
 ---
 
-# Any% Skips
+<!---
+parent: https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Skips/Act1Skips.md
+--->
 
-A collection of skips and time saves relevant to Any% routes, separated by the route(s) they're used in.
+## Skips and Time Saves used by all Any% routes
 
-- ### Skips used by all routes
-- ### RP Key/Flea (Cloakless) exclusive
-- ### LP Bells/Mist (Cloak) exclusive
+
 
 ---
 
