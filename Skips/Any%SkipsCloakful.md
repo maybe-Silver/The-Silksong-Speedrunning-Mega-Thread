@@ -4,7 +4,7 @@
 
 
 
-## Skips and Time Saves used by Bells (Cloak) route
+## Skips and Time Saves used in Bells (Cloak) route
 
 
 
