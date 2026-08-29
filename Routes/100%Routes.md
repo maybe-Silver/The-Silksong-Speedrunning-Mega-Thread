@@ -47,7 +47,7 @@ A culmination of hundo routing experience from multiple runners, this is (as sta
 > [THE Hundo route Splits](https://hksplitmaker.com/?game=silksong&builtin=100-monstah-z7)  
 > [THE Hundo route Milanote](https://app.milanote.com/1WJd0Q1KzAYA4r/the-hundo-route?p=S3qQVRjwUiB)  
 > [Downloadable .md note file](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Notes/the-hundo-route-891.md)  
-> [THE Hundo route Savestates](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/100.v7.Savestates.zip)  
+> [THE Hundo route Savestates](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/100.z7.Savestates.zip)  
 > Livesplit IL's coming soon
 
 - ### [zRoute](https://app.milanote.com/1WveEr1gD7FZ4H/100-mist-route-891?p=lxGFEERn8Hw)
